@@ -1,0 +1,29 @@
+h1{
+    background-color: lightskyblue;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+}
+
+h2{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    
+}
+p{
+    text-align: justify;
+}
+
+ul{
+    text-align: justify;
+}
+
+#part_1{
+    
+    font-family: verdana, sans-serif;
+    position: relative;
+    
+    left: 10%;
+    width: 70%;
+}
